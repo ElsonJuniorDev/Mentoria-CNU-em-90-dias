@@ -1,0 +1,50 @@
+.cor-1 {
+  color: #1b1b1b;
+}
+.cor-2 {
+  color: #ff5e24;
+}
+
+.font-1-sL {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 25.6px;
+}
+
+.font-1-s {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+
+
+.font-1-m {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+}
+
+.font-1-xxl {
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 53.2px;
+}
+
+.font-1xl {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36.4px;
+}
+
+.text-header {
+  max-width: 1920px;
+  height: 880px;
+  margin: 0 auto;
+  background-image: url("bg.png");
+}
